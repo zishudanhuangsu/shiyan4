@@ -1,3 +1,3 @@
 # shiyan4
 
-![实验结果]（https://github.com/zishudanhuangsu/T/4.1.png）
+![实验结果]（http://github.com/zishudanhuangsu/T/raw/master/img.jpg）
